@@ -10,3 +10,4 @@ git add fichero
 
 como está el último commit
 git log
+git show idhastcommit
